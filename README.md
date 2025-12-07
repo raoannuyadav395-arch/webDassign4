@@ -1,1 +1,1 @@
-# webDassign4
+This project is a JavaScript console-based quiz game developed for Web Dev Lab Assignment 4. It uses an array to store questions, a loop to display them one by one, prompt() to take user input, and alert() to provide feedback. The code is organized using functions for better readability. User answers are normalized with toLowerCase() and trim() to avoid input mismatch, and the score is tracked and shown at the end. The quiz can be run by opening index.html in a browser and checking the console.
